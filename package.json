@@ -1,0 +1,11 @@
+{
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "jest --watch" 
+   },
+  "author": "",
+  "license": "ISC"
+}
